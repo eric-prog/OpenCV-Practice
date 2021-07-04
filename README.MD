@@ -1,8 +1,8 @@
-### OpenCV-Practice
+## OpenCV-Practice
 
 Learning how to use OpenCV. 
 
-### Dependencies:
+## Dependencies:
 
 pip3 install <br/>
 opencv-contrib-python <br/>
